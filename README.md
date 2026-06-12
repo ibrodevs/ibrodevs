@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square&logoColor=white" />
    
-  <img src="https://img.shields.io/badge/Bishkek%2C%20Kyrgyzstan-%236366f1?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bishkek%2C%20Kyrgyzstan-6366f1?style=flat-square&logo=googlemaps&logoColor=white" />
    
   <img src="https://komarev.com/ghpvc/?username=ibrodevs&style=flat-square&color=6366f1&label=profile+views" />
 </div>
@@ -34,7 +34,7 @@ class IbrohimAbdraimov extends SoftwareEngineer {
 
   readonly name     = "Ibrohim Abdraimov";
   readonly location = "Bishkek, Kyrgyzstan 🇰🇬";
-
+  readonly status   = "Open to work 🟢";
 
   stack = {
     frontend : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
@@ -96,17 +96,56 @@ class IbrohimAbdraimov extends SoftwareEngineer {
 
 
 
---
+---## `~/projects`
 
-## `~/projects`
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 <h3>🏪 Dordoi Association</h3>
->
-> Corporate site for Kyrgyzstan's largest business association — 35 years of trade, education, sports & social impact across Central Asia.
->
+<p>Corporate site for Kyrgyzstan's largest business association — 35 years of trade, education, sports & social impact across Central Asia.</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+</p>
+<a href="https://www.dordoi.info"><strong>🔗 dordoi.info</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>🛵 Bali Bike Rental</h3>
+<p>Premium scooter rental landing for Bali — fast, conversion-focused UI built for international tourists.</p>
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+</p>
+<a href="https://www.bali.bike"><strong>🔗 bali.bike</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 KSAPCs — Sports Academy</h3>
+<p>Official website for the Kyrgyz State Academy of Physical Culture & Sports — modern institutional web presence.</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+</p>
+<a href="https://www.ksapcs.kg"><strong>🔗 ksapcs.kg</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>🏛 Salymbekov University</h3>
+<p>University web platform — clean, accessible, structured for prospective students and faculty.</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+<a href="https://salymbekov.vercel.app"><strong>🔗 salymbekov.vercel.app</strong></a>
+</td>
+</tr>
+</table>
+<br/>
+---
 
 ## `~/stats`
 
@@ -135,10 +174,7 @@ class IbrohimAbdraimov extends SoftwareEngineer {
 
 
 
-
-
 ---
-
 <div align="center">
 ```
 ☕  coffee before standups — non-negotiable
