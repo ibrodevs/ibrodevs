@@ -1,194 +1,70 @@
-<!-- Header -->
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ibrohim%20Abdraimov&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%94%20React%20%2F%20Next.js%20%2F%20TypeScript&descAlignY=62&descSize=17&descColor=a5b4fc&animation=fadeIn" />
-</div>
-<!-- Typing animation -->
-<div align="center">
-  <a href="https://github.com/ibrodevs">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1200&color=818CF8&center=true&vCenter=true&width=480&height=40&lines=const+engineer+%3D+%22Ibrohim+Abdraimov%22;Building+fast+%26+scalable+web+apps;React+%2B+Next.js+%2B+TypeScript;From+wireframe+to+production+%F0%9F%9A%80" alt="Typing" />
-  </a>
-</div>
-<br/>
-<!-- Badges row -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square&logoColor=white" />
-   
-  <img src="https://img.shields.io/badge/Bishkek%2C%20Kyrgyzstan-6366f1?style=flat-square&logo=googlemaps&logoColor=white" />
-   
-  <img src="https://komarev.com/ghpvc/?username=ibrodevs&style=flat-square&color=6366f1&label=profile+views" />
-</div>
-<br/>
----
 
-## `~/about`
+# Ibrohim Abdraimov
 
-```ts
-/**
- * @author  Ibrohim Abdraimov
- * @role    Software Engineer
- * @version 2025.latest
- */
+### Co-Founder at [Quantum Limited](https://quantum-limited.org) · Full-Stack Developer · Product Manager
 
-class IbrohimAbdraimov extends SoftwareEngineer {
+I design and ship web, mobile, CRM, and internal business products — from product discovery and UX to APIs, deployment, and iteration.
 
-  readonly name     = "Ibrohim Abdraimov";
-  readonly location = "Bishkek, Kyrgyzstan 🇰🇬";
-  readonly status   = "Open to work 🟢";
+[![Portfolio](https://img.shields.io/badge/Quantum_Limited-Portfolio-2563EB?style=for-the-badge)](https://quantum-limited.org)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IbroAbdraimov)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibroabdraimov20@gmail.com)
 
-  stack = {
-    frontend : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    design   : ["Figma", "Framer Motion", "Design Systems"],
-    devops   : ["Vercel", "Git", "GitHub Actions"],
-    workflow : ["Notion", "VS Code", "Agile / PM"],
-  };
-
-  passion() {
-    return [
-      "⚡ Turning ideas into fast, scalable web apps",
-      "🎨 Obsessing over pixel-perfect UI & UX",
-      "🏗️ Owning full cycle — from wireframe to production",
-      "🌍 Shipping real products for real users in Central Asia",
-    ];
-  }
-
-  currentlyBuilding() {
-    return "Something awesome... 🚀";
-  }
-}
-```
-
-<br/>
----
-
-## `~/stack`
-
-<div align="center">
-#### Core
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-#### Markup & Style
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer&logoColor=0055FF)
-
-#### Design & Tools
-
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
+Bishkek, Kyrgyzstan · Open to selected product partnerships and collaborations
 
 </div>
-<br/>
----
 
+## About me
 
+I am a product-minded full-stack engineer based in Bishkek. I work across frontend, backend, mobile, infrastructure, and product management, with a strong focus on turning business problems into clear, maintainable digital products.
 
+- Co-Founder of [Quantum Limited](https://quantum-limited.org)
+- Full product cycle: discovery, UX, architecture, development, deployment, and iteration
+- Experience with public-sector, education, travel, mobility, and family-safety products
+- Multilingual products for Central Asian and international audiences
+- Comfortable leading delivery while remaining hands-on with code
 
+## Selected work
 
+| Project | What it solves | Stack | Links |
+|---|---|---|---|
+| **Family Security** | A cross-platform family-safety product with location tracking, platform-adaptive maps, safety tools, background services, and parental controls. | Flutter, Riverpod, Firebase, WebRTC, Django REST | [Mobile](https://github.com/ibrodevs/Baby-locator) · [API](https://github.com/ibrodevs/Baby-locator-backend) |
+| **Bali Bike Rental** | A multilingual scooter discovery and booking experience built for international travelers in Bali. | Next.js, TypeScript, Framer Motion, REST API | [Live](https://www.bali.bike) · [Code](https://github.com/ibrodevs/bali-front) |
+| **Travel Hub CRM** | A role-based operational workspace for travel orders, passengers, services, finance, documents, suppliers, and team communication. | React, JSX, modular UI system | [Demo](https://crm-admin-theta.vercel.app) · [Code](https://github.com/ibrodevs/CRM-Admin) |
+| **Dordoi Association** | A multilingual institutional platform covering the association's companies, social impact, news, media, projects, and partners. | React, Vite, i18next, Django REST, PostgreSQL | [Live](https://www.dordoi.info) · [Code](https://github.com/ibrodevs/Dordoi-Association-Front) |
+| **SU Medical School** | A content-rich university platform for admissions, academics, student life, research, publications, news, and institutional information. | React, Vite, Django REST, PostgreSQL, S3 | [Live](https://www.su-medical-school.com) · [Code](https://github.com/ibrodevs/SU_med_front) |
+| **DayCore** | A personal productivity platform for daily planning, tasks, habits, calendar events, focus sessions, and progress insights. | Next.js, TypeScript, Django REST, JWT | [Demo](https://daycore-ibro.vercel.app) · [Code](https://github.com/ibrodevs/Daycore-frontend) |
 
----## `~/projects`
+## Technology
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🏪 Dordoi Association</h3>
-<p>Corporate site for Kyrgyzstan's largest business association — 35 years of trade, education, sports & social impact across Central Asia.</p>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-</p>
-<a href="https://www.dordoi.info"><strong>🔗 dordoi.info</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>🛵 Bali Bike Rental</h3>
-<p>Premium scooter rental landing for Bali — fast, conversion-focused UI built for international tourists.</p>
-<p>
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" />
-</p>
-<a href="https://www.bali.bike"><strong>🔗 bali.bike</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🎓 KSAPCs — Sports Academy</h3>
-<p>Official website for the Kyrgyz State Academy of Physical Culture & Sports — modern institutional web presence.</p>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-</p>
-<a href="https://www.ksapcs.kg"><strong>🔗 ksapcs.kg</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>🏛 Salymbekov University</h3>
-<p>University web platform — clean, accessible, structured for prospective students and faculty.</p>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-<a href="https://salymbekov.vercel.app"><strong>🔗 salymbekov.vercel.app</strong></a>
-</td>
-</tr>
-</table>
-<br/>
----
+| Area | Tools |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Framer Motion |
+| **Backend** | Python, Django, Django REST Framework, JWT, PostgreSQL, Supabase |
+| **Mobile** | Flutter, Dart, Firebase, RevenueCat, platform integrations |
+| **Infrastructure** | Docker, Nginx, Gunicorn, Vercel, AWS S3, Linux, GitHub Actions |
+| **Product & Design** | Figma, design systems, UX flows, requirements, Agile delivery |
 
-## `~/stats`
+## How I work
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrodevs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=818cf8&icon_color=6366f1&text_color=c7d2fe&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrodevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=c7d2fe&border_radius=12" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ibrodevs&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=c7d2fe&dates=6b7280&border_radius=12" />
-</div>
-<br/>
----
+1. Start with the user and business problem, not a list of features.
+2. Build a clear product flow and maintainable architecture.
+3. Ship a usable version early, measure feedback, and improve deliberately.
+4. Treat design, performance, reliability, and communication as part of engineering.
 
-## `~/connect`
+## Current focus
 
-[![Telegram](https://img.shields.io/badge/@IbroAbdraimov-0D1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/IbroAbdraimov)
+- Building DayCore as a practical productivity product
+- Developing CRM and internal automation systems for service businesses
+- Shipping client products through Quantum Limited
+- Improving production architecture, observability, and delivery workflows
 
-[![Instagram](https://img.shields.io/badge/@byibro-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/byibro)
+## Contact
 
-[![Email](https://img.shields.io/badge/ibroabdraimov20@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ibroabdraimov20@gmail.com)
+If you are building a CRM, internal platform, marketplace, mobile application, or multilingual website, I would be glad to discuss the product and its technical direction.
 
-</div>
-<br/>
----
+- Company: [quantum-limited.org](https://quantum-limited.org)
+- Telegram: [@IbroAbdraimov](https://t.me/IbroAbdraimov)
+- Instagram: [@byibro](https://instagram.com/byibro)
+- Email: [ibroabdraimov20@gmail.com](mailto:ibroabdraimov20@gmail.com)
 
-
-
-
----
-<div align="center">
-```
-☕  coffee before standups — non-negotiable
-🎵  lo-fi + dark theme = maximum focus
-📐  "close enough" doesn't exist in my vocabulary
-🌙  best commits happen after 10pm
-🐛  rubber duck debugging is an underrated skill
-```
-
-> *"The details are not the details. They make the design." — Charles Eames*
-
-</div>
-<br/>
-<!-- Footer wave -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-</div>
